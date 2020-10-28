@@ -1,0 +1,10 @@
+E:\source\repos\Klil\Klil\bin\Debug\Klil.exe.config
+E:\source\repos\Klil\Klil\bin\Debug\Klil.exe
+E:\source\repos\Klil\Klil\bin\Debug\Klil.pdb
+E:\source\repos\Klil\Klil\obj\Debug\Klil.csprojAssemblyReference.cache
+E:\source\repos\Klil\Klil\obj\Debug\Klil.frmMain.resources
+E:\source\repos\Klil\Klil\obj\Debug\Klil.Properties.Resources.resources
+E:\source\repos\Klil\Klil\obj\Debug\Klil.csproj.GenerateResource.cache
+E:\source\repos\Klil\Klil\obj\Debug\Klil.csproj.CoreCompileInputs.cache
+E:\source\repos\Klil\Klil\obj\Debug\Klil.exe
+E:\source\repos\Klil\Klil\obj\Debug\Klil.pdb
